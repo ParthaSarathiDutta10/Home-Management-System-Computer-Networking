@@ -64,15 +64,23 @@ organized into dedicated segments.
                                       communication
   -----------------------------------------------------------------------
 
-### Topology
+### Network Zone Screenshots
 
-Add an exported image of your Packet Tracer topology to
-`docs/images/topology.png` and it will appear here:
+#### Core Network Zone
 
-![Smart City Network Topology](docs/images/topology.png)
+![Core Network Zone](img/Core%20Network%20Zone.jpg)
 
-> **Note:** The topology image is a repository asset. Add the image at
-> the path above, or update the image path to match your filename.
+#### User Zone
+
+![User Zone](img/User%20Zone.jpg)
+
+#### Server and Management Zone
+
+![Server and Management Zone](img/Server%20%26%20Maganement.jpg)
+
+#### IoT and Wireless Zone
+
+![IoT and Wireless Zone](img/IOT%20%26%20Wireless%20Zone.jpg)
 
 ## Technologies and Concepts
 
@@ -239,37 +247,31 @@ Packet Tracer support.
 
 ## Repository Structure
 
-A suggested GitHub repository layout:
+Repository layout:
 
 ``` text
-smart-city-network/
+Home-Management-System-Computer-Networking/
 ├── README.md
-├── Smart-City-Network.pkt
-└── docs/
-    ├── project-report.pdf
-    └── images/
-        └── topology.png
+├── home network project  cnl.pkt
+└── img/
+    ├── Core Network Zone.jpg
+    ├── IOT & Wireless Zone.jpg
+    ├── Server & Maganement.jpg
+    └── User Zone.jpg
 ```
-
-Add your actual Packet Tracer file (`.pkt`), report, and topology
-screenshot to the repository. Rename the example files or update this
-section to match your actual filenames.
 
 ## How to Open the Project
 
 1.  Install **Cisco Packet Tracer**.
 2.  Clone or download this repository.
-3.  Open the `.pkt` project file using Cisco Packet Tracer.
+3.  Open `home network project  cnl.pkt` using Cisco Packet Tracer.
 4.  Inspect the topology and device configurations.
 5.  Use the verification commands above, where supported, to review
     routing, VLANs, ACLs, and NAT/PAT.
 
 ``` bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/ParthaSarathiDutta10/Home-Management-System-Computer-Networking.git
 ```
-
-Replace `<YOUR_GITHUB_REPOSITORY_URL>` with your repository's actual
-URL.
 
 ## Project Scope and Notes
 
