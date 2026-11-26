@@ -1,5 +1,7 @@
 # Smart City Network Infrastructure
 
+![Whole Network Topology](img/Whole%20Topology.png)
+
 A simulated smart-city network designed and implemented in **Cisco
 Packet Tracer**. The project demonstrates how a segmented, multi-zone
 network can connect users, centralized services, wireless clients, and
@@ -257,7 +259,8 @@ Home-Management-System-Computer-Networking/
     ├── Core Network Zone.jpg
     ├── IOT & Wireless Zone.jpg
     ├── Server & Maganement.jpg
-    └── User Zone.jpg
+    ├── User Zone.jpg
+    └── Whole Topology.png
 ```
 
 ## How to Open the Project
