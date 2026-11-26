@@ -9,7 +9,7 @@ IoT devices while applying routing and security controls.
 
 ## Project Overview
 
-Modern smart-city environments depend on reliable communication between
+Modern Home environments depend on reliable communication between
 departments, users, infrastructure services, and connected devices. This
 project models that environment through a structured enterprise-style
 network architecture.
