@@ -1,4 +1,4 @@
-# Smart City Network Infrastructure
+# Home Management System Network Infrastructure
 
 ![Whole Network Topology](img/Whole%20Topology.png)
 
