@@ -1,15 +1,15 @@
-# Smart City Network Infrastructure
+# Home Management Network
 
 ![Whole Network Topology](img/Whole%20Topology.png)
 
-A simulated smart-city network designed and implemented in **Cisco
+A simulated home management network designed and implemented in **Cisco
 Packet Tracer**. The project demonstrates how a segmented, multi-zone
 network can connect users, centralized services, wireless clients, and
 IoT devices while applying routing and security controls.
 
 ## Project Overview
 
-Modern smart-city environments depend on reliable communication between
+Modern home management environments depend on reliable communication between
 departments, users, infrastructure services, and connected devices. This
 project models that environment through a structured enterprise-style
 network architecture.
@@ -30,7 +30,7 @@ improve manageability, security, and scalability.
 
 ## Project Objectives
 
--   Design a multi-zone smart-city network topology.
+-   Design a multi-zone home management network topology.
 -   Connect different network segments through a routed core.
 -   Separate user, IoT, and management traffic using VLANs.
 -   Configure dynamic routing with OSPF.
@@ -280,7 +280,7 @@ git clone https://github.com/ParthaSarathiDutta10/Home-Management-System-Compute
 
 This is an academic network simulation project developed in Cisco Packet
 Tracer. It demonstrates network design and configuration concepts in a
-simulated environment; it is not a production-ready smart-city
+simulated environment; it is not a production-ready home management
 deployment.
 
 For exact interface assignments, device configurations, and addressing
